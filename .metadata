@@ -1,0 +1,10 @@
+description: |
+    SoapUI project (not ReadyAPI) using a weather
+    sample API.
+    Not entirely reliable, we sometimes have a few 
+    SSL handshake error.
+
+tags:
+- external_api
+- unreliable
+- unit_tests
